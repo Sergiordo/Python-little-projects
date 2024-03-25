@@ -3,6 +3,6 @@ def area_rectangular_prism (w, l, h):
     print(area)
     
 w = float(input('enter the length of the width: '))
-l = float(input('enter the length of the lentgh: '))
+l = float(input('enter the length of the length: '))
 h = float(input('enter the length of the height: '))
 result = area_rectangular_prism(w, l, h)
